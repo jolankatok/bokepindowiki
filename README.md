@@ -1,2 +1,2 @@
-# bokepindowiki
-bokepindowiki
+
+[bokepindowiki](https://bokepindowiki.pages.dev)
